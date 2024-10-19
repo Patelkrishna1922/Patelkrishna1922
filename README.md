@@ -1,3 +1,4 @@
+![logo](https://github.com/Patelkrishna1922/Patelkrishna1922/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Krishna Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
