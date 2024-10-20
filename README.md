@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, Sass.**
+- 💬 Ask me about **Fronted languages.**
 
 - 📫 How to reach me **patelkrishna1922@gmail.com**
 
